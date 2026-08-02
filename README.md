@@ -1,0 +1,1 @@
+# Adaptive-Silent-Communication-System-Using-Vibration-Pattern-Recognition
