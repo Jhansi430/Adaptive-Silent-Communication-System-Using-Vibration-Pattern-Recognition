@@ -64,11 +64,7 @@
 
 ## Overall Learning 
 
-Completed an internship at SureTrust in Embedded Systems and IoT.
-Gained practical experience in ESP32, sensors, microcontrollers, and IoT technologies.
-Worked on real-time projects involving smart home automation and embedded applications.
-Developed a Adaptive Silent Communication using Vibration Pattern Recognition and ESP32.
-Improved my skills in hardware interfacing.
+During my Embedded Systems and IoT virtual internship at SURE ProEd, I gained comprehensive foundational and practical knowledge in firmware design, transitioning from high-level hardware abstraction to bare-metal programming. My journey began with Arduino Uno architecture and embedded C, advancing to bare-metal programming where I managed hardware registers, timers, and interrupts without relying on standard libraries. I expanded my skill set into Real-Time Operating Systems (RTOS) by learning how to run multiple tasks at the same time using FreeRTOS. I also worked with the ESP32 in Visual Studio Code, where I learned how to use the ESP-IDF framework and connect to WiFi networks. Additionally, I developed a solid command of core communication protocols including I2C, UART, and I2S to seamlessly integrate a wide array of components like gas sensors, flex sensors, and bare-metal LCD setups. I have gained practical experience by applying these concepts in numerous hands-on assignments and mini-projects.
 
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
