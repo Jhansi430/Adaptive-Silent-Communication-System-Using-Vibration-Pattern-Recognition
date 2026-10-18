@@ -121,7 +121,9 @@ During my Embedded Systems and IoT virtual internship at SURE ProEd, I gained co
 
 ## **Learnings from LST and SST**
 
-During the internship, I participated in various **Life Skill Training (LST)** and **Soft Skill Training (SST)** sessions that helped me develop both personal and professional skills. The sessions improved my **communication, teamwork, leadership, time management, problem-solving, confidence, and interpersonal skills**. I also learned the importance of professional behavior, adaptability, effective decision-making, and maintaining a positive attitude. Overall, the internship helped me become more confident, responsible, and better prepared for the professional environment.
+The Soft Skills Training (SST) and Life Skills Training (LST) sessions played an important role in enhancing my professional skills and personal development. Through the SST sessions, I improved my communication skills, resume preparation, interview techniques, and group discussion abilities. I also gained an understanding of current industry expectations and learned about productivity tools, prompt engineering, and the practical use of AI in everyday tasks.
+
+The Sunday LST sessions helped me develop a broader understanding of essential life skills, including personal finance management, lateral thinking, preventive healthcare, workplace ethics, and emotional intelligence. The sessions on community service and the experiences of successful industrialists inspired me to become more responsible, disciplined, and goal-oriented. Overall, these training programs helped me complement my technical knowledge in Embedded Systems and IoT with essential interpersonal and professional skills, preparing me to face future career opportunities with greater confidence and a positive attitude.
 
 
 ## **Community Services**
